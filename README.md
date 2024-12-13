@@ -55,13 +55,13 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SunitDhopte/Archaeological_Script_Analysis.git
-   cd Archaeological_Script_Analysis
+   git clone https://github.com/sunitdhopte/Smart-Assisted-Archaeological-Script-Analysis-System.git
+   cd Smart-Assisted-Archaeological-Script-Analysis-System
    ```
    
 2. Run the application:
    ```bash
-   python app.py
+   python main.py
    ```
 
 3. Access the application at `http://localhost:5000`.
